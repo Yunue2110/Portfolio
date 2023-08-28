@@ -1,6 +1,4 @@
 # Portfolio
-These are some of the projects that I have carried out
-
 
 ### FIFA-MoneyBall
 In this project I create the database from scratch with the information provided in the csv file. Using tools like Python, Excel and Mysql.
